@@ -38,4 +38,5 @@ Kebutuhan yang Harus di Instalasi :
 2. Numpy -> http://www.numpy.org/
 3. Scipy -> https://www.scipy.org/
 4. Matplotlib -> https://matplotlib.org/
+5. OpenCV -> https://opencv.org/
 
