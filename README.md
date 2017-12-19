@@ -5,13 +5,17 @@ Workshop2018
 
 
 Harap melakukan pembayaran melalui ATM Bank :
+
 0430835065 (BNI)
+
 A.N. PUTRI DWI PRISILIA DINTI
 
 161-00-0321268-0 (MANDIRI)
+
 A.N. MUSTIKA NILA
 
 11880-01-57-000555-3 (BTN)
+
 A.N. RIZKI SETYAWATI
 
 Atau bisa melakukan pembayaran langsung di STMIK Bumigora Mataram.
