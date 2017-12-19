@@ -20,10 +20,13 @@ Setelah melakukan pembayaran langsung konfirmasi ke panitia dengan format:
 Workshop_NamaLengkap_Pekerjaan dan foto bukti pembayaran serta KTM*
 
 NB :
+
 *Mahasiswa Wajib Menyertakan KTM
 
 Kirim bukti ke WA atau Email :
+
 WA : 082350012522 (Rizka) atau 082350012465 (Kiky)
+
 Email: ssc@stmikbumigora.ac.id
 
 Kebutuhan yang Harus di Instalasi :
