@@ -10,13 +10,13 @@ Harap melakukan pembayaran melalui ATM Bank :
 
 A.N. PUTRI DWI PRISILIA DINTI</b>
 
-161-00-0321268-0 (MANDIRI)
+<b>161-00-0321268-0 (MANDIRI)
 
-A.N. MUSTIKA NILA
+A.N. MUSTIKA NILA</b>
 
-11880-01-57-000555-3 (BTN)
+<b>11880-01-57-000555-3 (BTN)
 
-A.N. RIZKI SETYAWATI
+A.N. RIZKI SETYAWATI</b>
 
 Atau bisa melakukan pembayaran langsung di STMIK Bumigora Mataram.
 
@@ -25,7 +25,7 @@ Workshop_NamaLengkap_Pekerjaan dan foto bukti pembayaran serta KTM*
 
 NB :
 
-*Mahasiswa Wajib Menyertakan KTM
+<b>*Mahasiswa Wajib Menyertakan KTM</b>
 
 Kirim bukti ke WA atau Email :
 
