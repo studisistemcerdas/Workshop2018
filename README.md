@@ -6,9 +6,9 @@ Ketentuan Workshop2018
 
 Harap melakukan pembayaran melalui ATM Bank :
 
-0430835065 (BNI)
+<b>0430835065 (BNI)
 
-A.N. PUTRI DWI PRISILIA DINTI
+A.N. PUTRI DWI PRISILIA DINTI</b>
 
 161-00-0321268-0 (MANDIRI)
 
