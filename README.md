@@ -27,7 +27,7 @@ NB :
 
 <b>*Mahasiswa Wajib Menyertakan KTM</b>
 
-Kirim bukti ke WA atau Email :
+Konfirmasi Pembayaran dan bukti ke WA atau Email :
 
 WA : 082350012522 (Rizka) atau 082350012465 (Kiky)
 
